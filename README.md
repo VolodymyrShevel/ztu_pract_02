@@ -16,10 +16,10 @@
 
 [Використані команди Git:](https://production-ready.dev/2023/02/10-komand-git/)
  - [x] git init
- - [x]git status
- - [x]git add
- - [x]git commit
- - [x]git remote add
- - [x]git push
- - [x]git pull
- - [ ]git branch
+ - [x] git status
+ - [x] git add
+ - [x] git commit
+ - [x] git remote add
+ - [x] git push
+ - [x] git pull
+ - [ ] git branch
